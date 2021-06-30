@@ -5,7 +5,14 @@
 #secondo-esercizio div[class*="col-"],
 #terzo-esercizio div[class*="col-"],
 #quarto-esercizio div[class*="col-"],
-#quinto-esercizio div[class*="col-"]  {
+#quinto-esercizio div[class*="col-"],
+#sesto-esercizio div[class*="col-"],  
+#settimo-esercizio div[class*="col-"], 
+#ottavo-esercizio div[class*="col-"],
+#nono-esercizio div[class*="col-"],
+#decimo-esercizio div[class*="col-"],
+#undicesimo-esercizio div[class*="col-"],
+#dodicesimo-esercizio div[class*="col-"]{
     background-color: blue;
     border: white solid 1px;
     color:white;
