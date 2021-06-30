@@ -228,7 +228,7 @@ box-sizing: border-box;
         width: calc(100% / 12 * 11);
     }
 
-    .col-xs-12 {
+    .col-lg-12 {
         width: calc(100% / 12 * 12);
     }
 }
