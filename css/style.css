@@ -1,0 +1,32 @@
+/* Generali */
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.container::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* /Generali */
+
+/* Layout 12 colonne */
+
+[class*="col-"] {
+    float: left;
+}
+
+.col-1{
+    
+}
+
+/* /Layout 12 colonne */
+
