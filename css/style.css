@@ -1,6 +1,3 @@
-/* Primo esercizio */
-/* Secondo esercizio */
-
 #primo-esercizio div[class*="col-"],
 #secondo-esercizio div[class*="col-"],
 #terzo-esercizio div[class*="col-"],
@@ -18,10 +15,3 @@
     color:white;
     text-align: center;
 }
-
-/* / Primo esercizio */
-
-
-
-/* /Secondo esercizio */
-
