@@ -1,4 +1,4 @@
-#primo-esercizio div[class*="col-"],
+/* #primo-esercizio div[class*="col-"],
 #secondo-esercizio div[class*="col-"],
 #terzo-esercizio div[class*="col-"],
 #quarto-esercizio div[class*="col-"],
@@ -13,5 +13,13 @@
     background-color: blue;
     border: white solid 1px;
     color:white;
+    text-align: center;
+} */
+
+
+div[class*="col-"] {
+    background-color: blue;
+    border: white solid 1px;
+    color: white;
     text-align: center;
 }
